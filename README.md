@@ -1,5 +1,5 @@
-La Jauretche - Resultados Elecciones 2017
-=========================================
+Resultados Elecciones 2017
+==========================
 
 Analisis y visualizaciones de los resultados para las PASO 2017 en Cordoba
 
